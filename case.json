@@ -1,0 +1,44 @@
+[
+    {
+        "jenis": "Anjing",
+        "ras": "Golden Retriever",
+        "nama": "Otto",
+        "karakteristik": "Enerjik dan senang bermain bola"
+    },
+    {
+        "jenis": "Anjing",
+        "ras": "Siberian Husky",
+        "nama": "Max",
+        "karakteristik": "Bulu lebat dan mata biru"
+    },
+    {
+        "jenis": "Anjing",
+        "ras": "Beagle",
+        "nama": "Bob",
+        "karakteristik": "Ceria dan aktif"
+    },
+    {
+        "jenis": "Kucing",
+        "ras": "Persia",
+        "nama": "Luna",
+        "karakteristik": "Anggun dan manja"
+    },
+    {
+        "jenis": "Kucing",
+        "ras": "British Short Hair",
+        "nama": "Milo",
+        "karakteristik": "Cerdas dan aktif"
+    },
+    {
+        "jenis": "Ikan",
+        "ras": "Koi",
+        "nama": "Nana",
+        "karakteristik": "Indah"
+    },
+    {
+        "jenis": "Ikan",
+        "ras": "Mas",
+        "nama": "Goldie",
+        "karakteristik": "Berwarna cerah"
+    }
+]
